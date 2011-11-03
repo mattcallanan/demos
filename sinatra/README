@@ -1,0 +1,4 @@
+gem install sinatra
+[optional] gem install thin
+ruby -rubygems myapp.rb
+view at: localhost:4567
